@@ -1,0 +1,18 @@
+ <HTML>
+ <HEAD>
+ <TITLE> Datos personales </TITLE>
+ </HEAD>
+ 
+ <BODY>
+ <H1> Datos personales </H1>
+<table>	<tr>
+		<th> Nombre</th>
+		<th> Carne</th>
+		<th> Imagen</th>
+
+	<tr>	
+	<td>Angel Fernando Lepe Alvarez</td>		
+	<td>201314006</td>	
+	<td><IMG SRC="http://blog.pequejuegos.com/wp-content/uploads/chistes-lepe.jpg" WIDTH=180 HEIGHT=150></td>	
+	</tr>	
+	</table>
